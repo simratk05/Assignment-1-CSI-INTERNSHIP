@@ -1,6 +1,8 @@
 # Assignment-1-CSI-INTERNSHIP
 In first assignment, we had to create simple program to print upper- triangle, lower- triangle and pyramid.
-CODE AND OUTPUT SNIPPETS-
+
+### CODE AND OUTPUT SNIPPETS-
+
 ![image](https://github.com/user-attachments/assets/e42c8caf-e231-4422-93fc-48b41427cd66)
 
 ![image](https://github.com/user-attachments/assets/a7f966f6-94be-4999-a929-bd35cc695246)
